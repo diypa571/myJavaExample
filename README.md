@@ -27,4 +27,5 @@ För att köra TrafficMonitorGUI krävs Java Runtime Environment (JRE) installer
 ## Licens
 
 TrafficMonitorGUI är öppen källkod och fritt att använda enligt licensvillkoren.
+
 Regards// Diypa571
